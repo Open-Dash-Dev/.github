@@ -17,7 +17,7 @@ The client is the Godot part, and unfortunately, is currently **incapable** of r
 
 # Technical Overview
 > [!WARNING]
-> Technical Stuff with `console.log("code 🙀 (UH OH!)");`, some super brain dazzling Object Notation, and a whole world of technical HTTP wirey, JS supercode, and some Bongo Mongo for Databases, and more, if you just want to play, go to the [client repo](https://github.com/Open-Dash-Dev/client/) and head over to releases.
+> Technical Stuff with `console.log("CODE?! 🙀 (UH OH!)");`, some super brain dazzling Java-based Object Notation, and a whole world of technical HTTP wirey, JS supercode, and some Bongo Mongo for Databases, and O-SO-MUCH more, if you just want to play, go to the [client repo](https://github.com/Open-Dash-Dev/client/) and head over to releases.
 
 ## Some quick definitions
 Some words will be short, here is what we mean by some stuff.
@@ -42,7 +42,7 @@ Also, here's the server stuff!
 - [x] Plan structure
 - [x] Start NodeJS Project
 - [x] GitHub Repo
-- [ ] Actually code it. (99% of the server.)
+- [ ] Actually code it. (99% of the server, died in Ender Dragon fight, needs to respawn.)
 - [ ] Rate limits
 - [x] MongoDB Setup
 
