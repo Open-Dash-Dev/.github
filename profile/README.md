@@ -47,10 +47,10 @@ Also, here's the server stuff!
 - [x] MongoDB Setup
 
 ## Server
-The server, as most servers do, have multiple endpoints, as who wants to be like `www.server.info?iWantTo=uploadLevel`, if you want, here is an overview:
+The server, as most servers do, has MANY endpoints, as who wants to be like `www.server.info?iWantTo=uploadLevel`, if you want, here is an overview:
 > [!WARNING]
 > 1:
-> The endpoint `CreateOJUser`, and all `gd` ones is rate limited to 5 requests/min to prevent user overpopulation (👥👥👥👥👥👥) and also RobTop's servers from melting into a blop of silicon.
+> The endpoint `CreateOJUser`, and all `gd` ones are rate limited to 5 requests/min to prevent user overpopulation (👥👥👥👥👥👥) and also RobTop's servers from melting into a blop of silicon.
 > 2:
 > Most of these endpoints are a pure plan. Nothing is implemented.
 
